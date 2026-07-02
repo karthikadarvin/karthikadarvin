@@ -1,6 +1,6 @@
 # Hi there, I'm Karthika K D 👋
 
-I am a **Full Stack Developer** with 1+ years of professional experience blending robust backend architecture with responsive, dynamic frontends[cite: 1]. My core strengths lie in building scalable RESTful APIs using **Go (Echo)** and **Python (Django)** while crafting intuitive user interfaces with **React** and modern frontend technologies.
+I am a **Full Stack Developer** with 1+ years of professional experience blending robust backend architecture with responsive, dynamic frontends. My core strengths lie in building scalable RESTful APIs using **Go (Echo)** and **Python (Django)** while crafting intuitive user interfaces with **React** and modern frontend technologies.
 
 - 🔭 I’m currently working as a **Software Developer** at Cloudhouse Technologies.
 - ⚡ **Core Focus:** Bridging complex server-side logic with seamless client-side interfaces.
